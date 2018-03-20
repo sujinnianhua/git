@@ -26,3 +26,4 @@ class Resp(last_respon):
         self._status_code=code
     def __str__(self):
         return "{self._status_code},{self.body}".format(self=self)
+#实际这一模块可以不要
