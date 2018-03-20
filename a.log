@@ -1,0 +1,58 @@
+2018-03-20 15:19:39,823 - staticNew - INFO - {'message': 'success', 'code': 200, 'result': {'token': 'ed53e14c74234d428cf1cbe0b2d58c86'}}
+2018-03-20 15:19:39,832 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'ed53e14c74234d428cf1cbe0b2d58c86'}}
+2018-03-20 15:19:39,832 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'ed53e14c74234d428cf1cbe0b2d58c86'}}
+2018-03-20 15:19:39,832 - staticNew - INFO - <type 'dict'>
+2018-03-20 15:19:39,832 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:19:39,832 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:19:40,040 - staticNew - INFO - {'message': 'success', 'code': 200, 'result': {'token': '7fc9b14a58724d118bf7b91e024bb909'}}
+2018-03-20 15:19:40,045 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'7fc9b14a58724d118bf7b91e024bb909'}}
+2018-03-20 15:19:40,045 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'7fc9b14a58724d118bf7b91e024bb909'}}
+2018-03-20 15:19:40,045 - staticNew - INFO - <type 'dict'>
+2018-03-20 15:19:40,045 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:19:40,045 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:34:15,141 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'17b23dff87554833808535568585e27f'}}
+2018-03-20 15:34:15,155 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'17b23dff87554833808535568585e27f'}}
+2018-03-20 15:34:15,157 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'17b23dff87554833808535568585e27f'}}
+2018-03-20 15:34:15,157 - staticNew - INFO - <type 'dict'>
+2018-03-20 15:34:15,157 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:34:15,157 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:34:15,368 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'0297fe07529e4b77a4b73d6558112a2f'}}
+2018-03-20 15:34:15,371 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'0297fe07529e4b77a4b73d6558112a2f'}}
+2018-03-20 15:34:15,371 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'0297fe07529e4b77a4b73d6558112a2f'}}
+2018-03-20 15:34:15,371 - staticNew - INFO - <type 'dict'>
+2018-03-20 15:34:15,371 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:34:15,371 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:34:48,641 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'366036c14c174d7888aa479689618925'}}
+2018-03-20 15:34:48,661 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'366036c14c174d7888aa479689618925'}}
+2018-03-20 15:34:48,661 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'366036c14c174d7888aa479689618925'}}
+2018-03-20 15:34:48,661 - staticNew - INFO - <type 'dict'>
+2018-03-20 15:34:48,663 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:34:48,663 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:34:48,881 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'3556e17daf0d47c0be8ac574fc2f1aa5'}}
+2018-03-20 15:34:48,888 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'3556e17daf0d47c0be8ac574fc2f1aa5'}}
+2018-03-20 15:34:48,890 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'3556e17daf0d47c0be8ac574fc2f1aa5'}}
+2018-03-20 15:34:48,890 - staticNew - INFO - <type 'dict'>
+2018-03-20 15:34:48,890 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:34:48,890 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:39:15,220 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'b0d64aeee07140509e542305090e9726'}}
+2018-03-20 15:39:15,229 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'b0d64aeee07140509e542305090e9726'}}
+2018-03-20 15:39:15,229 - staticNew - INFO - {'message': 'success', 'code': 200, 'result': {'token': 'b0d64aeee07140509e542305090e9726'}}
+2018-03-20 15:39:15,229 - staticNew - INFO - <class 'getval.gese'>
+2018-03-20 15:39:15,230 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:39:15,230 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:39:15,230 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:39:15,230 - staticNew - INFO - {'token': 'b0d64aeee07140509e542305090e9726'}
+2018-03-20 15:39:15,230 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:39:15,230 - staticNew - INFO - {'mobile': '13127623790', 'password': 'qqq111'}
+2018-03-20 15:39:16,467 - staticNew - INFO - {'message': 'success', 'code': 200, 'result': {'isCanUseFinancialGold': 1, 'userProperty': {'totalCredits': 3179143.3346, 'dpTotalHolder': 0, 'financialGold': '31670.2112', 'regularTotalHolder': 3851299.99, 'historyRevenue': 544039.2526, 'cfTotalHolder': 0, 'inviteBalanceSum': 11637088.9694}, 'isLastOrder': 0, 'isNewCoupon': 1, 'userBaseInfo': {'account': '10012921', 'fee': 0, 'name': '\\u67f3\\u59e3\\u71d5', 'recommend': '65a89a95ea30637be02ab92d8f0d82c5', 'mobile': '13127623790', 'isBindCard': 1, 'userId': 100545, 'couponNum': 4}}}
+2018-03-20 15:39:16,721 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'2cd9152d54b747b3bf821c2db227351a'}}
+2018-03-20 15:39:16,724 - staticNew - INFO - {u'message': u'success', u'code': 200, u'result': {u'token': u'2cd9152d54b747b3bf821c2db227351a'}}
+2018-03-20 15:39:16,724 - staticNew - INFO - {'message': 'success', 'code': 200, 'result': {'token': '2cd9152d54b747b3bf821c2db227351a'}}
+2018-03-20 15:39:16,724 - staticNew - INFO - <class 'getval.gese'>
+2018-03-20 15:39:16,724 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:39:16,724 - staticNew - INFO - https://testagile.sunallies.com/user/myAccount
+2018-03-20 15:39:16,726 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:39:16,726 - staticNew - INFO - {'token': '2cd9152d54b747b3bf821c2db227351a'}
+2018-03-20 15:39:16,726 - staticNew - INFO - 替换后的结果var-dict
+2018-03-20 15:39:16,726 - staticNew - INFO - {'mobile': '13127623790', 'password': 'qqq111'}
+2018-03-20 15:39:17,987 - staticNew - INFO - {'message': 'success', 'code': 200, 'result': {'isCanUseFinancialGold': 1, 'userProperty': {'totalCredits': 3179143.3346, 'dpTotalHolder': 0, 'financialGold': '31670.2112', 'regularTotalHolder': 3851299.99, 'historyRevenue': 544039.2526, 'cfTotalHolder': 0, 'inviteBalanceSum': 11637088.9694}, 'isLastOrder': 0, 'isNewCoupon': 1, 'userBaseInfo': {'account': '10012921', 'fee': 0, 'name': '\\u67f3\\u59e3\\u71d5', 'recommend': '65a89a95ea30637be02ab92d8f0d82c5', 'mobile': '13127623790', 'isBindCard': 1, 'userId': 100545, 'couponNum': 4}}}
