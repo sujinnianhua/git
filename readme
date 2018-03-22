@@ -1,0 +1,9 @@
+主要的思路如下：
+1、确定好与fitnesse集成时所需要的参数，有哪些，哪些是直接从fitnesse的wiki上获取的，哪些是从结果那返回的
+2、这些参数也是属于dict中，设定这些参数的类型和获取方法
+3、定义两种常见的请求方式，post_by_dict的data数据不需要处理，post方法中的data需要通过json.dumps进行转换
+4、将预期结果和实际结果进行比较，此处用到的比较方法是jsonschame中自带的validate（jsonschame,instance）方法，前面的jsonschame对应的是期望结果，instance对应的是实际结果
+5、对比较后的结果进行处理，如有异处存在就返回异处结果，否则传回pass
+特殊的，在传参的时候需要用到返回结果中的值
+1、由于该值通过中转被传入进去的话会被python编译器转成unicode形式，所以在该unicode中取某个key对应的value值的时候应该先将其encode成utf-8 的模式，将返回的结果进行key,value属性设置，这样可以通过key获取到value
+2、第二种方式是直接将需要的值取出来
