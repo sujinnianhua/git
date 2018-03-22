@@ -1,0 +1,7 @@
+diff a/lastdata.py b/lastdata.py	(rejected hunks)
+@@ -26,3 +26,4 @@
+         self._status_code=code
+     def __str__(self):
+         return "{self._status_code},{self.body}".format(self=self)
++#实际这一模块可以不要
+\ No newline at end of file

@@ -1,0 +1,23 @@
+diff --git a/lastdata.py b/lastdata.py
+index 39efe96..4a9f41d 100644
+--- a/lastdata.py
++++ b/lastdata.py
+@@ -26,4 +26,3 @@ class Resp(last_respon):
+         self._status_code=code
+     def __str__(self):
+         return "{self._status_code},{self.body}".format(self=self)
+-#实际这一模块可以不要
+\ No newline at end of file
+diff --git a/lastdata.py.rej b/lastdata.py.rej
+new file mode 100644
+index 0000000..62dcc86
+--- /dev/null
++++ b/lastdata.py.rej
+@@ -0,0 +1,7 @@
++diff a/lastdata.py b/lastdata.py	(rejected hunks)
++@@ -26,3 +26,4 @@
++         self._status_code=code
++     def __str__(self):
++         return "{self._status_code},{self.body}".format(self=self)
+++#实际这一模块可以不要
++\ No newline at end of file
